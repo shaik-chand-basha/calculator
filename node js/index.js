@@ -1,0 +1,6 @@
+console.log("Hello world")
+let add = require("./add.js")
+console.log(add)
+console.log(__filename)
+console.log(__dirname)
+console.log(module)
